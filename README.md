@@ -1,3 +1,5 @@
 # 新しいサイト　main page
-製作中 https://fugufx.github.io/Grebe.github.io/
-Progateを参考にして、その後いろいろ変えていこうと思います。
+リンク https://fugufx.github.io/Grebe.github.io/
+参考 Progate
+　　 小惑星(1998ky262)様
+　　 haru-ymth(yamaguchio3)様
